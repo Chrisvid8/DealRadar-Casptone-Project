@@ -74,4 +74,4 @@ I was solely responsible for the **Admin Website** component.
 ---
 
 ## 🔗 Live Demo Link
-[View Admin Website]((https://dealradar-consumer.web.app/))
+[View Admin Website](https://dealradar-consumer.web.app/)
